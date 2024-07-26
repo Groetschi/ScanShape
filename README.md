@@ -1,6 +1,7 @@
 # ScanShape
 3D AR Scanner App
-![IMG_1570](https://github.com/user-attachments/assets/58c92c97-a730-4a79-b21a-57fd99b37be9)
+![IMG_1566](https://github.com/user-attachments/assets/637984e5-84a3-4656-b3ed-c79045d11b75)
+
 
 
 
