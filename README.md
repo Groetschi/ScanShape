@@ -24,3 +24,25 @@ Mit unserer App wird das Erfassen und Modellieren von Objekten zum Kinderspiel. 
 Jetzt herunterladen und die Zukunft des Scannens erleben!
 
 Verfügbar im App Store.
+
+
+
+[English]
+
+Discover the World in 3D: With Our Lidar Scanner App for iOS!
+Immerse yourself in the fascinating world of 3D technology with our advanced Lidar Scanner App, exclusively developed for iOS devices. Experience how easy and precise it is to capture real objects and transform them into digital models.
+
+Key Features:
+
+Easy Capture: Utilize the powerful Lidar technology of your iOS device to effortlessly scan objects and spaces in 3D.
+Detailed Models: Create high-resolution digital models that you can view, rotate, and analyze anytime.
+Accurate Measurement: Measure distances, areas, and volumes in your 3D models with the highest precision.
+User-Friendly: An intuitive interface designed for both beginners and professionals.
+Share and Export: Easily share your 3D models with friends or export them for further applications.
+Why Choose Our Lidar Scanner App?
+
+With our app, capturing and modeling objects is a breeze. Whether you are a designer, architect, hobbyist, or just curious, our app provides you with the tools you need to rediscover and shape your surroundings.
+
+Download now and experience the future of scanning!
+
+Available on the App Store.
